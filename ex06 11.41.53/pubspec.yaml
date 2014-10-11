@@ -1,0 +1,5 @@
+name: ex06
+author: Nicolas Lortie
+description: A sample command-line application
+dependencies:
+  intl: any
